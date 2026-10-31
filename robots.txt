@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bob.curiosta.com/sitemap.xml

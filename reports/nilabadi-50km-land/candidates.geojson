@@ -1,0 +1,436 @@
+{
+ "type": "FeatureCollection",
+ "name": "nilabadi-50km-candidate-zones",
+ "note": "Approximate zone centroids (rounded to ~100 m) of general areas, not plots.",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.421,
+     18.767
+    ]
+   },
+   "properties": {
+    "rank": 1,
+    "name": "Belagam Agraharam",
+    "state": "Andhra Pradesh",
+    "score": 95.1,
+    "lat": 18.767,
+    "lon": 83.421,
+    "dist_from_nilabadi_km": 26.0,
+    "direction": "SE",
+    "drive_km": 31.9,
+    "drive_min": 32,
+    "major_road_km": 0.1,
+    "large_town_km": 1.9,
+    "small_town_km": 13.0,
+    "nearest_station": "Parvatipuram",
+    "station_km": 0.8,
+    "school_km": 0.3,
+    "health_km": 0.2,
+    "slope_deg": 1.4,
+    "elev_m": 122,
+    "nearest_water_m": 794,
+    "landcover": "crop 36%, built 27%, tree 20%, grass 16%",
+    "zone_area_ha": 197,
+    "pros": "Highest score; on the edge of Parvathipuram town, 0.8 km from Parvatipuram station; flat (1.4°); school and health facility within ~300 m",
+    "cons": "Andhra Pradesh jurisdiction (Meebhoomi records, AP land rules, partly Scheduled district); peri-urban asking prices; already 27% built-up, so open infill land is limited",
+    "thumbnail": "zone-01.jpg",
+    "thumb_scene": "S2C_MSIL2A_20260114T050151_R119_T44QQF_20260114T080009",
+    "thumb_date": "2026-01-14"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.41,
+     19.188
+    ]
+   },
+   "properties": {
+    "rank": 2,
+    "name": "Sai Priya Nagar",
+    "state": "Odisha",
+    "score": 94.1,
+    "lat": 19.188,
+    "lon": 83.41,
+    "dist_from_nilabadi_km": 29.6,
+    "direction": "NE",
+    "drive_km": 50.1,
+    "drive_min": 57,
+    "major_road_km": 0.6,
+    "large_town_km": 2.2,
+    "small_town_km": 7.3,
+    "nearest_station": "Rayagada",
+    "station_km": 1.4,
+    "school_km": 1.3,
+    "health_km": 1.4,
+    "slope_deg": 0.9,
+    "elev_m": 222,
+    "nearest_water_m": 1908,
+    "landcover": "crop 40%, built 34%, grass 14%, tree 12%",
+    "zone_area_ha": 255,
+    "pros": "Rayagada district HQ edge; station 1.4 km; flattest zone (0.9°); deepest rental and services market in the circle",
+    "cons": "Town-level plot prices; longest drive from Nilabadi of the top three (≈50 km, ≈57 min); check municipal / development-authority layout approval",
+    "thumbnail": "zone-02.jpg",
+    "thumb_scene": "S2B_MSIL2A_20260126T044959_R076_T44QQG_20260126T083358",
+    "thumb_date": "2026-01-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.413,
+     19.125
+    ]
+   },
+   "properties": {
+    "rank": 3,
+    "name": "Beheraguda",
+    "state": "Odisha",
+    "score": 88.1,
+    "lat": 19.125,
+    "lon": 83.413,
+    "dist_from_nilabadi_km": 24.0,
+    "direction": "NE",
+    "drive_km": 52.0,
+    "drive_min": 58,
+    "major_road_km": 0.2,
+    "large_town_km": 5.0,
+    "small_town_km": 14.3,
+    "nearest_station": "Ladda",
+    "station_km": 2.4,
+    "school_km": 0.9,
+    "health_km": 4.0,
+    "slope_deg": 2.2,
+    "elev_m": 190,
+    "nearest_water_m": 599,
+    "landcover": "crop 64%, tree 22%, grass 8%, built 6%",
+    "zone_area_ha": 261,
+    "pros": "On a major road (0.2 km), 5 km from Rayagada; Ladda station 2.4 km; mostly cropland so low clearing cost",
+    "cons": "Nagavali river runs ~1–2 km east (see thumbnail): confirm high-flood level on site; farmland usually needs kisam conversion before building",
+    "thumbnail": "zone-03.jpg",
+    "thumb_scene": "S2B_MSIL2A_20260126T044959_R076_T44QQG_20260126T083358",
+    "thumb_date": "2026-01-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.456,
+     18.852
+    ]
+   },
+   "properties": {
+    "rank": 4,
+    "name": "Gangareguvalasa",
+    "state": "Andhra Pradesh",
+    "score": 87.2,
+    "lat": 18.852,
+    "lon": 83.456,
+    "dist_from_nilabadi_km": 22.4,
+    "direction": "SE",
+    "drive_km": 42.6,
+    "drive_min": 41,
+    "major_road_km": 0.2,
+    "large_town_km": 8.2,
+    "small_town_km": 23.2,
+    "nearest_station": "Gumada",
+    "station_km": 3.9,
+    "school_km": 1.2,
+    "health_km": 7.5,
+    "slope_deg": 1.8,
+    "elev_m": 125,
+    "nearest_water_m": 906,
+    "landcover": "crop 48%, tree 35%, built 14%",
+    "zone_area_ha": 194,
+    "pros": "Major road 0.2 km; Gumada station 3.9 km; gentle slope (1.8°); between Parvathipuram and the Odisha border",
+    "cons": "Andhra Pradesh jurisdiction; 8 km to Parvathipuram; 35% tree cover in the zone",
+    "thumbnail": "zone-04.jpg",
+    "thumb_scene": "S2C_MSIL2A_20260114T050151_R119_T44QQF_20260114T080009",
+    "thumb_date": "2026-01-14"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.395,
+     18.826
+    ]
+   },
+   "properties": {
+    "rank": 5,
+    "name": "Sivandravalasa",
+    "state": "Andhra Pradesh",
+    "score": 82.5,
+    "lat": 18.826,
+    "lon": 83.395,
+    "dist_from_nilabadi_km": 19.2,
+    "direction": "SE",
+    "drive_km": 28.5,
+    "drive_min": 32,
+    "major_road_km": 0.8,
+    "large_town_km": 5.9,
+    "small_town_km": 18.8,
+    "nearest_station": "Parvatipuram Town",
+    "station_km": 6.2,
+    "school_km": 6.9,
+    "health_km": 5.4,
+    "slope_deg": 2.2,
+    "elev_m": 173,
+    "nearest_water_m": 1099,
+    "landcover": "crop 75%, tree 19%, grass 6%",
+    "zone_area_ha": 134,
+    "pros": "Shortest drive from Nilabadi of the AP zones (≈28.5 km, ≈32 min); 75% open cropland",
+    "cons": "Andhra Pradesh jurisdiction; mostly agricultural land (conversion needed); 6 km to a major town",
+    "thumbnail": "zone-05.jpg",
+    "thumb_scene": "S2C_MSIL2A_20260114T050151_R119_T44QQF_20260114T080009",
+    "thumb_date": "2026-01-14"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.43,
+     19.252
+    ]
+   },
+   "properties": {
+    "rank": 6,
+    "name": "Amalabhata",
+    "state": "Odisha",
+    "score": 82.2,
+    "lat": 19.252,
+    "lon": 83.43,
+    "dist_from_nilabadi_km": 36.9,
+    "direction": "NE",
+    "drive_km": 57.4,
+    "drive_min": 61,
+    "major_road_km": 0.1,
+    "large_town_km": 9.2,
+    "small_town_km": 1.5,
+    "nearest_station": "Singapur Road Junction",
+    "station_km": 3.0,
+    "school_km": 8.1,
+    "health_km": 2.9,
+    "slope_deg": 2.4,
+    "elev_m": 224,
+    "nearest_water_m": 508,
+    "landcover": "crop 35%, tree 32%, grass 18%, built 15%",
+    "zone_area_ha": 152,
+    "pros": "Near the JK Paper complex at Jaykaypur (industrial jobs = rental demand); major road 0.1 km; Singapur Road Jn station 3 km",
+    "cons": "Check industrial air, water and truck traffic; ≈57 km / ≈61 min drive from Nilabadi",
+    "thumbnail": "zone-06.jpg",
+    "thumb_scene": "S2B_MSIL2A_20260126T044959_R076_T44QQG_20260126T083358",
+    "thumb_date": "2026-01-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.361,
+     18.738
+    ]
+   },
+   "properties": {
+    "rank": 7,
+    "name": "Putturu",
+    "state": "Andhra Pradesh",
+    "score": 81.9,
+    "lat": 18.738,
+    "lon": 83.361,
+    "dist_from_nilabadi_km": 25.7,
+    "direction": "S",
+    "drive_km": 32.7,
+    "drive_min": 33,
+    "major_road_km": 0.2,
+    "large_town_km": 8.6,
+    "small_town_km": 9.1,
+    "nearest_station": "Narsipuram Halt",
+    "station_km": 4.9,
+    "school_km": 2.4,
+    "health_km": 1.9,
+    "slope_deg": 1.6,
+    "elev_m": 126,
+    "nearest_water_m": 610,
+    "landcover": "crop 71%, tree 21%, grass 6%",
+    "zone_area_ha": 464,
+    "pros": "Largest contiguous high-score zone (≈464 ha); major road 0.2 km; flat cropland",
+    "cons": "Andhra Pradesh jurisdiction; 8.6 km to a major town; farmland conversion needed",
+    "thumbnail": "zone-07.jpg",
+    "thumb_scene": "S2C_MSIL2A_20260114T050151_R119_T44QQF_20260114T080009",
+    "thumb_date": "2026-01-14"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.474,
+     19.204
+    ]
+   },
+   "properties": {
+    "rank": 8,
+    "name": "Kuli",
+    "state": "Odisha",
+    "score": 75.4,
+    "lat": 19.204,
+    "lon": 83.474,
+    "dist_from_nilabadi_km": 34.9,
+    "direction": "NE",
+    "drive_km": 67.2,
+    "drive_min": 71,
+    "major_road_km": 0.3,
+    "large_town_km": 7.1,
+    "small_town_km": 8.2,
+    "nearest_station": "Rayagada",
+    "station_km": 7.4,
+    "school_km": 8.4,
+    "health_km": 5.0,
+    "slope_deg": 2.5,
+    "elev_m": 296,
+    "nearest_water_m": 1952,
+    "landcover": "crop 80%, tree 12%, grass 6%",
+    "zone_area_ha": 69,
+    "pros": "80% cropland, 7 km from Rayagada; major road 0.3 km",
+    "cons": "Small zone; longest drive from Nilabadi (≈67 km, ≈71 min) because the road network goes round the hills",
+    "thumbnail": "zone-08.jpg",
+    "thumb_scene": "S2B_MSIL2A_20260126T044959_R076_T44QQG_20260126T083358",
+    "thumb_date": "2026-01-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.422,
+     19.044
+    ]
+   },
+   "properties": {
+    "rank": 9,
+    "name": "Kandhajimidi",
+    "state": "Odisha",
+    "score": 75.0,
+    "lat": 19.044,
+    "lon": 83.422,
+    "dist_from_nilabadi_km": 18.6,
+    "direction": "NE",
+    "drive_km": 42.3,
+    "drive_min": 64,
+    "major_road_km": 0.3,
+    "large_town_km": 13.9,
+    "small_town_km": 17.1,
+    "nearest_station": "Jimidipeta",
+    "station_km": 0.1,
+    "school_km": 9.8,
+    "health_km": 1.2,
+    "slope_deg": 2.1,
+    "elev_m": 183,
+    "nearest_water_m": 1370,
+    "landcover": "crop 56%, tree 34%, built 5%, grass 5%",
+    "zone_area_ha": 36,
+    "pros": "Jimidipeta station 0.1 km; closest Rayagada-side zone to Nilabadi in straight line (18.6 km)",
+    "cons": "Slow roads (≈42 km, ≈64 min drive); 14 km to a major town; small zone (≈36 ha)",
+    "thumbnail": "zone-09.jpg",
+    "thumb_scene": "S2B_MSIL2A_20260126T044959_R076_T44QQG_20260126T083358",
+    "thumb_date": "2026-01-26"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.113,
+     18.991
+    ]
+   },
+   "properties": {
+    "rank": 10,
+    "name": "Lakshmipur",
+    "state": "Odisha",
+    "score": 74.0,
+    "lat": 18.991,
+    "lon": 83.113,
+    "dist_from_nilabadi_km": 17.3,
+    "direction": "W",
+    "drive_km": 42.5,
+    "drive_min": 41,
+    "major_road_km": 0.1,
+    "large_town_km": 37.7,
+    "small_town_km": 0.6,
+    "nearest_station": "Lakshmipur Road",
+    "station_km": 1.6,
+    "school_km": 19.4,
+    "health_km": 0.5,
+    "slope_deg": 3.5,
+    "elev_m": 893,
+    "nearest_water_m": 493,
+    "landcover": "crop 37%, tree 34%, built 16%, grass 13%",
+    "zone_area_ha": 31,
+    "pros": "Lakshmipur block HQ 0.6 km; Lakshmipur Road station 1.6 km; closest zone to Nilabadi (17 km W)",
+    "cons": "Far from any large town (≈38 km); steeper (3.5°); small zone (≈31 ha)",
+    "thumbnail": "zone-10.jpg",
+    "thumb_scene": "S2C_MSIL2A_20260305T045701_R119_T44QQG_20260305T102020",
+    "thumb_date": "2026-03-05"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.273,
+     18.954
+    ]
+   },
+   "properties": {
+    "rank": "benchmark",
+    "name": "Nilabadi (village centroid, benchmark)",
+    "state": "Odisha",
+    "score": 63.4,
+    "lat": 18.954,
+    "lon": 83.273,
+    "dist_from_nilabadi_km": 0,
+    "direction": "",
+    "drive_km": "",
+    "drive_min": "",
+    "major_road_km": 2.4,
+    "large_town_km": 24.9,
+    "small_town_km": 2.1,
+    "nearest_station": "Kuneru",
+    "station_km": 17.6,
+    "school_km": 20.2,
+    "health_km": 2.6,
+    "slope_deg": 3.1,
+    "elev_m": 253,
+    "nearest_water_m": 1018,
+    "landcover": "tree 34%, crop 31%, grass 26%, built 9%",
+    "zone_area_ha": "",
+    "pros": "Block HQ (Bandhugaon) ~2 km W; village services",
+    "cons": "Hilly mixed cover; 2.4 km to a major road; 17.6 km to a station; thin rental demand",
+    "thumbnail": "bench-nilabadi.jpg",
+    "thumb_scene": "S2B_MSIL2A_20260126T044959_R076_T44QQG_20260126T083358",
+    "thumb_date": "2026-01-26"
+   }
+  }
+ ]
+}
