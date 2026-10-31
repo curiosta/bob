@@ -1,0 +1,15 @@
+rank,locality,score,lat,lon,km_to_centre,nh16_corridor_km,brts_km,nearest_job_hub,job_hub_km,hospitals_3km,schools_3km,nearest_station,station_km,airport_km,coast_km
+1,Akkayyapalem,85.8,17.738,83.299,1.8,0.2,2.0,Port & HPCL refinery,7.6,89,53,Visakhapatnam,2.1,35.0,3.3
+2,Seethammadhara,84.8,17.745,83.306,2.3,0.6,1.9,Port & HPCL refinery,8.7,95,56,Visakhapatnam,3.1,33.9,3.8
+3,Dwaraka Nagar,83.7,17.729,83.309,0.6,0.8,2.4,Port & HPCL refinery,7.9,139,77,Visakhapatnam,2.1,35.1,2.1
+4,Arilova,81.7,17.768,83.308,4.9,2.9,0.2,Rushikonda IT hills,9.4,35,11,Visakhapatnam,5.5,31.9,5.0
+5,Marripalem,80.7,17.741,83.248,6.5,0.7,0.0,Port & HPCL refinery,5.2,12,23,Marripalem,0.7,38.5,3.5
+6,Gopalapatnam,79.5,17.748,83.220,9.6,1.6,0.0,Port & HPCL refinery,6.5,14,17,Simhachalam,0.4,40.3,6.1
+7,MVP Colony,78.8,17.742,83.336,3.7,0.7,1.5,Rushikonda IT hills,8.6,42,51,Visakhapatnam,5.3,32.2,1.0
+8,Gajuwaka,77.0,17.681,83.213,11.0,0.9,7.0,Port & HPCL refinery,3.6,35,13,Gopalapatnam,6.9,45.8,5.9
+9,Yendada,72.4,17.783,83.358,8.5,0.0,4.1,Rushikonda IT hills,3.8,7,13,Visakhapatnam,9.9,27.2,2.3
+10,PM Palem,67.1,17.802,83.349,9.7,0.2,5.4,Rushikonda IT hills,4.2,8,15,Visakhapatnam,10.8,26.2,4.2
+11,Madhurawada,66.5,17.810,83.354,10.8,0.0,6.5,Rushikonda IT hills,3.8,9,19,Visakhapatnam,11.9,25.2,4.3
+12,Pendurthi,66.2,17.821,83.207,15.2,0.5,0.0,Port & HPCL refinery,14.6,13,8,Pendurthi,1.4,37.0,13.6
+town,Vizianagaram (town),67.5,18.114,83.411,0.0,12.7,,"Divi's Labs, Chippada",20.7,48,25,Vizianagaram Junction,1.6,18.9,20.2
+town,Srikakulam (town),60.9,18.295,83.894,0.0,2.3,,"Divi's Labs, Chippada",58.9,58,31,Dusi,9.1,53.3,10.2

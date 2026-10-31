@@ -1,0 +1,16 @@
+rank,zone,mandal,district,state,score,lat,lon,km_from_nilabadi,km_from_vizag_centre,km_to_coast,major_road_km,station_km,school_km,health_km,slope_deg,cyclone_surge_penalty,scheduled_area
+1,Dharmapuri,Vizianagaram Mandal,Vizianagaram District,Andhra Pradesh,88.5,18.093,83.413,96.5,42.4,18.7,0.0,2.7,0.9,0.8,0.7,0.0,Not in listed Scheduled mandals (verify village)
+2,Sai Priya Nagar,Rayagada,Rayagada,Odisha,85.1,19.190,83.412,29.9,162.7,118.8,0.5,1.8,1.6,1.5,0.7,0.0,Scheduled
+3,Anakapalle,Anakapalle Mandal,Anakapalli District,Andhra Pradesh,84.2,17.684,83.023,143.1,30.4,17.7,0.4,2.0,0.2,1.0,1.4,0.0,Not in listed Scheduled mandals (verify village)
+4,Ravipadu,Amadalavalasa Mandal,Srikakulam District,Andhra Pradesh,80.7,18.337,83.889,94.3,91.7,14.8,0.2,5.0,2.3,1.8,0.4,0.1,Not in listed Scheduled mandals (verify village)
+5,Akkireddipalem,Pendurthi Mandal,Visakhapatnam District,Andhra Pradesh,80.0,17.831,83.226,124.5,14.6,13.8,0.0,3.8,0.5,2.1,1.5,1.0,Not in listed Scheduled mandals (verify village)
+6,Chaugaon,Sunabeda,Koraput,Odisha,75.1,18.743,82.834,51.8,123.4,112.3,0.2,4.4,1.7,0.5,2.1,0.0,Scheduled
+7,Bottavanipalem,Visakhapatnam Rural Mandal,Visakhapatnam District,Andhra Pradesh,74.1,17.818,83.372,126.2,12.5,3.4,1.5,13.7,1.8,0.8,0.9,8.0,Not in listed Scheduled mandals (verify village)
+8,Bheemali,Lakkavarapukota Mandal,Vizianagaram District,Andhra Pradesh,73.8,17.975,83.218,108.5,29.4,24.9,0.7,2.5,2.5,2.0,1.1,0.0,Not in listed Scheduled mandals (verify village)
+9,Talapada,Doraguda,Rayagada,Odisha,72.2,19.174,83.034,35.0,163.1,138.1,0.2,6.8,5.1,5.1,4.6,0.0,Scheduled
+10,Gajapatinagaram,Gajapathinagaram Mandal,Vizianagaram District,Andhra Pradesh,71.9,18.274,83.335,75.5,61.0,38.3,0.2,2.0,0.8,0.4,1.9,0.0,Not in listed Scheduled mandals (verify village)
+11,Yelamanchili,Yelamanchili Mandal,Anakapalli District,Andhra Pradesh,71.9,17.548,82.864,161.6,50.9,13.2,0.4,1.3,1.0,0.6,0.6,1.4,Not in listed Scheduled mandals (verify village)
+12,Vallapuram,Gurla Mandal,Vizianagaram District,Andhra Pradesh,71.4,18.198,83.504,87.2,56.5,20.6,0.0,2.4,5.6,3.6,2.0,0.0,Not in listed Scheduled mandals (verify village)
+13,Lakshmipuram,Ponduru Mandal,Srikakulam District,Andhra Pradesh,71.2,18.346,83.747,83.9,83.1,22.0,0.2,3.6,3.3,1.5,0.6,0.0,Not in listed Scheduled mandals (verify village)
+14,Nadupura,Pedagantyada Mandal,Visakhapatnam District,Andhra Pradesh,70.4,17.628,83.159,147.3,18.9,6.1,2.2,8.3,2.8,4.0,2.2,7.2,Not in listed Scheduled mandals (verify village)
+15,Koraput,Koraput Town,Koraput,Odisha,69.8,18.803,82.704,62.2,135.4,126.7,1.1,2.0,1.1,0.2,4.3,0.0,Scheduled
